@@ -8,7 +8,7 @@ import sys
 import string
 #  import os
 
-
+####### Irgendwas
 def clean_input(s):
     return ''.join(filter(lambda x: x in set(string.printable), s))
 
@@ -24,7 +24,8 @@ class GPT2Text():
         attempts = 0
         while attempts < 5:
             try:
-                child = pexpect.spawn('python ./src/interactive_conditional_samples.py --top_k 40')
+                child = pexpect.spawn('python ./src/interactive_conditional_samples.py --top_k 40 --length 100 --temperature 0.9')
+                child.timeout = 300
                 child.expect('[*>>]')
                 child.sendline(clean_input(input_str))
                 child.expect('================================================================================')

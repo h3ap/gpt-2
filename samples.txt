@@ -1,0 +1,277 @@
+# All lines starting with root@........ show which input was given to gpt-2
+
+root@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "Some super crazy horse ran through my house!"
+
+
+======================================== SAMPLE 1 ========================================
+ :p It was very nice to see how excited my husband was about doing a full ride on the horses that ran behind us."
+
+The pair went through the car parks as they were walking on the highway.
+
+"I guess my wife needed to keep our house clean for this, but I think her house should be clean too," Pippa replied with a smile.
+
+According to an eyewitness who saw the horse run, "I remember trying to turn it over on the way into the driveway but seeing some horses jump out of the carriage and fall onto the driveway. He also stopped to help as he said 'I'm sorry,' and they all ran away."
+
+The horse then left the house and Pippa and her dog found it several days later in an area with more horses on horseback.
+
+The couple said they also saw the whole thing in what they called a "very rough area" in the area where a man jumped a few fences.
+
+A witness also said that "the horse did not run after them but jumped on the roof and out of the way".<|endoftext|>Faced with the massive deficit facing the Department of Treasury, Republicans have unveiled an ambitious plan to combat global warming.
+
+The plan to slash the federal debt is set to cost $22.6 trillion by 2017 -- or $1.8 trillion less than what the Obama administration projected.
+
+On paper, the tax plan is an ideal way to cut interest rates. But as the budget process moves deeper into debate, Republicans are looking to break with that path -- or at least make it less appealing.
+
+"In an ideal world, every plan that we release would be the kind of revenue-neutral, tax-cut-friendly plan that our government always tries to reach for in government spending," said Senator Ron Paul of Texas.
+
+Republicans released a plan that is similar to the Republican Tax Cuts and Jobs Act, but it includes some key changes to federal programs.
+
+It will reduce the deficit by $200 billion over 10 years while increasing tax rates by $15.
+
+It includes some savings that would help offset the federal deficit, which has increased from $3 trillion in 2010 to $5 trillion in 2015. It also includes some reductions in the cost of Medicaid and other public assistance programs.
+
+"We're going to make it more expensive to keep people safe every time people want them to be, but it's an alternative to keeping people here," said Representative James Posey, R
+
+
+#################################################################################################################
+
+root@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "Give me your money!"
+
+======================================== SAMPLE 1 ========================================
+
+
+There's little to no reason why you should be given anything but a free shirt. It's so much work.
+
+"My mother would have wanted me to wear a shirt at my wedding, but she kept her promise to get me one by getting my parents to pay for it," he said.
+
+Holly, who works as an information technology consultant and is now working as a writer, says that she is proud of all the people who helped her find her job.
+
+"I remember how much I wanted to have something," she said. "It helped me with school, work, family. I remember how much time I spent on my work, how many things saved my life. Now when I take over a job I want to work like any other job: I like to be around people."
+
+The full cost of the shirt is $25 per hour, which makes sense, given that her father is a paid consultant and was required to pay for it himself.
+
+The idea that a free shirt is a great idea is something Holly shared with some colleagues who are paying attention, and has been encouraging others. He says she has taken a good hard look at the cost model.
+
+He says, to many members of the media, the picture of free shirt is of the poor, the unemployed, and the "low-paid" and "marginally employed.
+
+"We're not selling a product to you, or we're going to raise your rent," he says. "But we're not raising your wages just because we're looking to sell a product."
+
+Holly says she started wearing a t-shirt just to have an idea, but she knows what she'll be getting when she gets her daughter to take part in this initiative.
+
+"She should get some help from family. I wouldn't want her to lose her job just because of what she did. She couldn't afford to keep paying $15 an hour or $15 an hour, when that is what she got, from someone so much like her," he said.<|endoftext|>The Washington Post's The "Gang of Eight" featured what appears to be a video on YouTube of the two men laughing and joking.
+
+The video starts off with the man saying a lot of bad things. Then it cuts out from there:
+
+If you've heard the word "gang," you'll know I've a good feeling about Gang of Eight: They're the worst gang I've ever seen. If
+
+
+###############################################################################################################
+
+root@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "I'm lonely. Do you want to be my friend?"
+
+======================================== SAMPLE 1 ========================================
+ Why don't you tell me."
+
+She sat down in bed to rest in her chair, thinking of what she'd done there. Then she thought of the other students who'd done it for her. She would talk to her friends.
+
+"You're welcome."
+
+"Good morning, Miss Granger. We're on your lunch date, so the others are all very excited. Can you tell me why you're so interested in going here?"
+
+"What? I didn't want to leave? I guess I don't want to get married because it takes more than an hour of our time together. But, I know there could be other students that you can meet. They just might want to meet some new students. I want them to meet people that are willing and able to give them answers. The professor just told us you're going to meet there first,"
+
+"I'm sorry I told you." Her eyes were red. She felt she might have gotten something wrong. "But I know. I got it. I've been here once." She tried again, but her face turned dark. "No, you didn't. We're not allowed to. This is not where we want to be."
+
+"Right, I'm sorry! I won't tell other students. We'll have to talk about it later, but there has to be a better way."
+
+"Yes, Miss Granger."
+
+"So I'll be on your lunch date."
+
+"Yeah but you have to work that out yourself. So go see with them. As I've written earlier, I've never been at Hogwarts, yet I'm interested by the people there. The people around it are all good, I know that. But I can say this: I'm not interested in being on your lunch date. I'm interested in meeting people. I don't hate these people, and I really don't want to talk to them. But I feel I've been lied to that I'm very much attracted to them and I don't want to leave any stone unturned. So I told the professor how I had been attracted by their faces, that I'd never been attracted to anyone before that school, and I'd never wanted to see someone else. Just like that. They laughed. But not for long. They laughed for the rest of the day. Then, after dinner, they said goodbye. They gave each other good wishes. Then, after a while it started to rain again. Eventually
+
+
+#################################################################################################
+
+t@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "What is the purpose of this talk?"
+
+======================================== SAMPLE 1 ========================================
+
+
+It's to show you that you can take your phone out and connect to it. It's there for you to use and use on other devices. There are a lot of different ways to take your phone out, and you can connect your phone to any other camera that's out there.
+
+What is an Android camera?
+
+An Android camera is a camera that you can use to take video of. There's two types of cameras. The Android camera is for video and it's really helpful, there's two different kinds of cameras. The camera that's in the back is for video and it's pretty simple to use. A normal smartphone, there are a lot of cameras. There are a lot of the apps that you
+
+
+
+###################################################################################################
+
+root@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "Tell me something about yourself. What's the thing you like about making a great amount of money?"
+
+======================================== SAMPLE 1 ========================================
+
+
+I just don't know.
+
+Do you think making a lot of money is worth it?
+
+It's not really.
+
+Do you think your income is important?
+
+No.
+
+What's the most important thing?
+
+Money.
+
+How many people do you have in your life?
+
+I don't know.
+
+What's the most important thing?
+
+Everything.
+
+You're at a meeting like this now.
+
+What's the most important thing?
+
+That I could do these things more.
+
+I think I get that.
+
+What do you want to see more of as a person?
+
+I think I want to see more of
+
+
+
+#############################################################################################
+
+
+t@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "Hi I'm Michael Jordan. I stopped playing Basketball. Now I'm in the advertisement business"
+
+======================================== SAMPLE 1 ========================================
+. I'm a TV producer. I'm an actor and a teacher."
+
+"In my career I've never seen any of these types of games. You don't see anything like those, because it's a small country. You have to come from a family of people who did those games. You've got to come from a great family and you have to be the best people in the world to do what you do. The biggest thing is getting in the game, doing the things that you do. That's what's what I do."
+
+"The biggest thing is winning. Winning a championship is the biggest thing for me. I love going to tournaments. I love going to games."
+
+#############################################################################################
+
+root@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "Wow! That really imoresses me! You are one kind of an actor!"
+before cleaned:
+or!
+======================================== SAMPLE 1 ========================================
+ You are all of my best friends! You are my best friends!
+
+What's your favorite Disney movie of all time? Leave a comment below!
+
+Advertisements<|endoftext|>On April 15, 2012, the University of Virginia issued a formal response to a question directed at the university's faculty members about an alleged rape in which one student reported that she was assaulted by her roommate, and that the university was going to remove her from campus. The University of Virginia was among the first to investigate the allegations and issued a statement on the matter that said that, among other things, "The University of Virginia has taken steps to respond to the concerns raised in this matter and has taken appropriate actions which protect the safety of the University community."
+
+It was
+
+
+
+
+after cleaned:
+
+Split len
+
+
+What's your favorite Disney movie of all time? Leave a comment below!
+
+Advertisements
+
+
+######################################################################################################
+
+
+
+
+t@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "You! You blame me? You are an asshole!"
+before cleaned:
+le!
+======================================== SAMPLE 1 ========================================
+ You are a cunt! You're the one who wants to kill me! You want to kill my sister! You want to kill me! You're the one who can't help but laugh at me! You're the one who should be able to do all this work, you and your family. You're the one who should be able to stand up against your brother-in-law! You're the one who should be able to stand up against the bullies and bullies of this town. You're the one who should be able to do all this work for us, to show us how much we care for each other. You should be able to fight on! You are the one who should be able to stand up for everyone. You are
+
+######################################################################################################
+
+
+
+root@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "Shut the fuck up!"
+before cleaned:
+up!
+======================================== SAMPLE 1 ========================================
+ Let me go home.
+
+But wait, did all the men in the room understand and respect the woman? No, that's not what I meant. I mean, they said I was a bit of an ass for being like that. I also wanted to get away from that. I just wanted to make friends, not just get married. I needed to be the one to help people, I didn't want to be in charge. I don't want to have that. I wanted to prove I didn't like anyone. I didn't want to be a dick. I didn't want to be the only one to be jealous. I wanted people to see me as a weak and fragile woman.
+
+I'm not a perfect person
+
+
+#########################################################################################################
+
+
+
+t@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "It is late. I'm very tired and I don't want to spend all my money for your penis enlargemnt pills you try to sell me"
+before cleaned:
+ me
+======================================== SAMPLE 1 ========================================
+, I really want to learn how to use my own penis, but you must stop lying about it to stop cheating with me and you will get no money from me for it. Do you want to stop playing with me? I am not afraid of you. Do you want to have my penis removed? You are not willing to do this to me. Do you want to see my penis again, please? You can get me to suck your cock, I want to cum on my penis with you. You are very nice. I love you. Do you want to cum in my mouth? I want to cum in your mouth. You will be my best friend. Do you want to cum on my cum? I want to cum in you.
+
+############################################################################################################
+
+root@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "How much money can you give me?"
+before cleaned:
+me?
+======================================== SAMPLE 1 ========================================
+ $1,000
+
+I'm going to ask for it to be used in my next job. I'm not asking for any money, I'm just asking for the money to be used by me. So I'll do it in my next job, so that it'll be used for the next six months, when I move. This is the way it looks in this world.
+
+How do you make sure that you give back to your family and friends?
+
+I want to make sure that I give back to my family and friends, so that I can be a better man. I've got a lot of experience. I've got a lot of experience in the past. I've got a lot of experience now, I
+
+
+############################################################################################################
+
+
+root@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "I need much more than 1000$!"
+before cleaned:
+000
+======================================== SAMPLE 1 ========================================
+ new jobs to keep rising.
+
+The job opening rate hit 19.8 percent last year, and that's just about the lowest level since the financial crisis.
+
+Those unemployment rates are about 8.5 percent, and have barely budged in four years.
+
+The unemployment rate in the U.S. was 5.1 percent last year.
+
+The number of Americans looking for work has fallen steadily in recent years.
+
+"It is time to move on from the current economic crisis," said Ryan Grimaldi, director of the Institute for Government Quarterly.
+
+But he is pessimistic about the prospects for economic growth and job creation.
+
+###########################################################################################################
+
+root@765cb70aace5:/gpt-2# python3 io_gpt2/IO_gpt2.py "That's definitley something I won't do!"
+before cleaned:
+do!
+======================================== SAMPLE 1 ========================================
+ (I was thinking about the fact that they can keep you in prison when you get out. Or at least that's what they told me).
+
+- I haven't actually thought about it for awhile. So far, I have had to write out my new name on a blank sheet of paper to remember it. It's hard on me; I can't even remember the names.
+
+- My mom's one name still doesn't work. She's still my mom's mother. (
+
+
+
+)
